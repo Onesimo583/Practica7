@@ -1,4 +1,4 @@
-# Práctica 7 - Sitio Web 
+# Práctica 7 - Avance del Sitio Web 
 
 Este proyecto es un sitio web simple que muestra un catálogo de laptops reacondicionadas. Está organizado en varias secciones, incluyendo una página de inicio, un catálogo de productos, una página de contacto y una sección de información sobre el negocio.
 
